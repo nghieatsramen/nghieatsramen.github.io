@@ -1,0 +1,37 @@
+h1 {font-family: "Lucida Console", Monaco, monospace;
+	font-size: 40px;
+        color: white;
+ border: 10px dotted black;
+    padding: 20px;
+    background: #cc99ff;
+    background-clip: padding-box;
+}
+
+h3 {font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+font-size: 16px;
+color: white;
+}
+
+ul {font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+font-size: 16px;
+color: white;
+}
+
+body {font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+font-size: 16px;
+color: white;
+text-align: center;
+}
+div {
+background-image: linear-gradient(to right, black 0%, white 100%, url('http://wallpapercave.com/wp/6ERktAi.png');
+background-blend-mode: color-dodge;
+}
+
+
+
+
+.page-title {
+border: 2px dotted white;
+text-align: center;
+
+
