@@ -25,8 +25,21 @@ Champaign/Urbana </p>
 <div class= "main">
 <div class= "picture">
 <img id="pic" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Champaign-Night.jpg"
-<img  src="http://wand.images.worldnow.com/images/10339711_G.jpg"
+align= "left", hspace="30">
 </div>
+ 
+<div class= "picture2">
+<img id="pic2" src="https://eatingtheworld.files.wordpress.com/2012/10/blackdogbbqplatter.jpg" style="width:350px;height:228px;" align="right", hspace="30">
+</div>
+
+<div class= "picture3">
+<img id="pic3" src="https://pbs.twimg.com/media/ChaBTYvXEAAEi_v.jpg" style="width:300px; height:250px;" align="left", hspace="20">
+</div>
+
+<div class= "picture4">
+<img id="pic4" src="http://www.visitchampaigncounty.org/theme/frontend/images/menu/festivals-events.jpg" style= "width=300px"; height="250";">
+
+
 </div>
 </body>
 

@@ -5,7 +5,7 @@
 
 @font-face {
 	font-family: mySecondFont;
-	src: url(Mobile Sans.ttf);
+	src: url(DejaVuSans-ExtraLight.ttf);
 }
 
 @font-face {
@@ -16,7 +16,7 @@
 h1 {font-family: myThirdFont, "Lucida Console", Monaco, monospace;
 	font-size: 60px;
         color: white;
-border: 5px dotted #9966cc;
+border: 5px dotted #cc6699;
     padding: 10px;
     background-image: url("https://s-media-cache-ak0.pinimg.com/736x/f7/62/0a/f7620acc89e597614d153457848e5165.jpg");
     background-clip: padding-box;
@@ -40,10 +40,19 @@ background-image: url("http://wallpapercave.com/wp/CpgLM3e.gif");
 }
 
 #pic{
-width: 300px;
+width: 400px;
 height:300px;
-border: 5px solid #9966cc}
+border: 2px solid white}
 
+#pic2{
+border: 2px solid white}
+
+#pic3{
+border: 2px solid white}
+
+#pic4 {
+border: 2px solid white}
+margin-top: 80px;}
 
 
 
