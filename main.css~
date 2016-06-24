@@ -1,37 +1,53 @@
-h1 {font-family: "Lucida Console", Monaco, monospace;
-	font-size: 40px;
+@font-face {
+	font-family: myFirstFont;
+	src: url(Neou-Thin.ttf);
+}
+
+@font-face {
+	font-family: mySecondFont;
+	src: url(Mobile Sans.ttf);
+}
+
+@font-face {
+	font-family: myThirdFont;
+	src: url(Grind.ttf)
+}
+
+h1 {font-family: myThirdFont, "Lucida Console", Monaco, monospace;
+	font-size: 60px;
         color: white;
- border: 10px dotted black;
-    padding: 20px;
-    background: #cc99ff;
+border: 5px dotted #9966cc;
+    padding: 10px;
+    background-image: url("https://s-media-cache-ak0.pinimg.com/736x/f7/62/0a/f7620acc89e597614d153457848e5165.jpg");
     background-clip: padding-box;
 }
 
-h3 {font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+h3 {font-family: myFirstFont, 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+font-size: 24px;
+color: white;
+}
+
+ul {font-family: mySecondFont, 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 font-size: 16px;
 color: white;
 }
 
-ul {font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-font-size: 16px;
-color: white;
-}
-
-body {font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+body {font-family: mySecondFont, 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 font-size: 16px;
 color: white;
 text-align: center;
+background-image: url("http://wallpapercave.com/wp/CpgLM3e.gif");
 }
-div {
-background-image: linear-gradient(to right, black 0%, white 100%, url('http://wallpapercave.com/wp/6ERktAi.png');
-background-blend-mode: color-dodge;
-}
+
+#pic{
+width: 300px;
+height:300px;
+border: 5px solid #9966cc}
 
 
 
 
 .page-title {
-border: 2px dotted white;
 text-align: center;
 
 

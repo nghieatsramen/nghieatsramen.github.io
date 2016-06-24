@@ -6,25 +6,27 @@ type="text/css" href="main.css"/>
 <h1 class="page-title"> Nghi's Bubbly World</h1>
 <h3>The Visitor's Fun Guide to Champaign/Urbana</h3>
 <header class="container">
-<div class="row">
-<nav class="col-sm-4">
+<div class="nav">
 <p> Food Places</p>
 <p> Attractions</p>
 <p> Monthly <a href="http://www.chambanamoms.com/event-calendar"/>Events</a></p>
 <p> Secret Gems</p>
 </nav>
 </div>
-</header>
+
 </head>
 
 <body>
-<p class= "page-description">  Welcome to the amazing city of Champaign! This insider's guide will show you all of the fun and family friendly sites and activities that Champaign has to offer!</p>
+<p class= "page-description">  Welcome to the amazing city of Champaign! This insider's guide will show you all of the fun and family friendly sites and activities that Champaign has to offer!
+
+Champaign/Urbana </p>
 
 
 <div class= "main">
-
-<img src="https://www.qwanz.com/uploaded_files/poll/main/images/f_cc4d0d9fab3a049319e60da6f684f0c778482753.jpg"
-
+<div class= "picture">
+<img id="pic" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Champaign-Night.jpg"
+<img  src="http://wand.images.worldnow.com/images/10339711_G.jpg"
+</div>
 </div>
 </body>
 
